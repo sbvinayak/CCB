@@ -1,5 +1,5 @@
 /*
-Vinayak Bhargav Srinath [4866100]
+Vinayak Bhargav Srinath
 Equations given:
 R1: 2x1+x2 = 4x3 
 R2: x1+2x3 = 3x2 
