@@ -1,5 +1,5 @@
 /*
- * Author : Vinayak Bhargav Srinath [4866100]
+ * Author : Vinayak Bhargav Srinath
  * This Headerfile lists all the structures and function prototypes that can be used
  * Certain functions that were not used have been commented out
 */
