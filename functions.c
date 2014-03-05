@@ -1,5 +1,5 @@
 /*
- * Author : Vinayak Bhargav Srinath [4866100]
+ * Author : Vinayak Bhargav Srinath 
  * This file lists out the function definitions
  * Functions not used are commented out, to enable them simply un-comment them and the corresponding prototype in functions.h
 */
