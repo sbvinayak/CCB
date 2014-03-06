@@ -3,7 +3,7 @@ CCB
 
 Circuits_Computation_and_Biology
 
-The files in this Repo are for the public domain, feel free to use then as you wish!
+The files in this Repo are for the public domain, feel free to use them as you wish!
 
 problem*.c is used to find the probablility for a specific set of reactant quantities:
 1) That a given condition on qunatitiy of its type is reached
